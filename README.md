@@ -1,1 +1,1 @@
-# indie-garaj
+# indie-garage
